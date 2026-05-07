@@ -10,6 +10,7 @@ dependencies = [
     "langgraph>=1.1.10",
     "load-dotenv>=0.1.0",
     "pydantic>=2.13.3",
+    "streamlit>=1.57.0",
     "youtube-transcript-api>=1.2.4",
 ]
 
