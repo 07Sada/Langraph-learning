@@ -1,0 +1,6 @@
+{
+  "pdf_path": "D:\\Projects\\langraph-learning\\Langsmith\\islr.pdf",
+  "chunk_size": 1000,
+  "chunk_overlap": 150,
+  "embedding_model": "text-embedding-3-small"
+}
